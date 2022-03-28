@@ -4,8 +4,6 @@
 
 Since apple introduced their ARKit they have started uploading 3D models of their products to their website
 
-PHOTO EXAMPLE
-
 I thought it would be interesting to see if I could export these files and 3D print them to see how accurate they are.
 
 ## Getting the File
@@ -53,3 +51,7 @@ Upon loading the file the model was clearly not at the right scale:
 Looking at the model's dimensions and the reported dimensions of the phone online it looks to be 1/10th scale. Adjusting the scale of our model by 10 produces a more sensible result:
 
 ![Screenshot](images/slicer10x.png)
+
+## UNDER CONSTRUCTION 🚧
+
+Check back later for more updates!
